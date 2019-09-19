@@ -19,7 +19,7 @@ Simple project for training on nodeJs, express, and some module
 To run code you must have Download NodeJs in you PC Click this [NodeJs](https://nodejs.org/en/ "https://nodejs.org/en/")    
 Clone this repository or download zip file.    
 ```
-git@github.com:mAbadsa/newsletter-signup.git
+git clone git@github.com:mAbadsa/newsletter-signup.git
 ```
 
 ```
